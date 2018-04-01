@@ -1,7 +1,7 @@
 <?php
-    $to = 'support@anpsthemes.com';
-    $from = 'support@anpsthemes.com';
-    $subject = 'Reservation on Kataleya';
+    $to = 'lima.mm2011@gmail.com';
+    $from = 'lima.mm2011@gmail.com';
+    $subject = 'Solicitação de Reserva';
 
     $message = '';
     $message .= '<table cellpadding="0" cellspacing="0">';
@@ -21,7 +21,7 @@
 
     $message .= '</table>';
 
-    $headers = 'From: ' . $from . "\r\n" .
+    $headers = 'De: ' . $from . "\r\n" .
             'Reply-To: ' . $from . "\r\n" .
             'Content-type: text/html; charset=iso-8859-1' . "\r\n" .
             'X-Mailer: PHP/' . phpversion();
