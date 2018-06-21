@@ -1,7 +1,7 @@
 <?php
-    $to = 'support@anpsthemes.com';
-    $from = 'info@anpsthemes.com';
-    $subject = 'Mail from Kataleya';
+    $to = 'lima.mm2011@gmail.com';
+    $from = 'lima.mm2011@gmail.com';
+    $subject = 'Email Rosseto';
 
     $message = '';
     $message .= '<table cellpadding="0" cellspacing="0">';
